@@ -1,6 +1,6 @@
-## 👋 Hello
+## ⌨️ Hello
 
 I'm a **programmer** from Eastern U.S. interested in
-- systems programming
-- application monitoring
-- data visualization
+- 🌟 tracking the history of the night sky
+- 📇 systems engineering
+- 🔐 Go & Node.js
