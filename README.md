@@ -5,5 +5,3 @@ I'm a **software engineer** from the Eastern US. I worked on open source project
 - image processing
 - data visualization
 - systems engineering
-
-<img src="https://github-readme-stats.vercel.app/api?username=nonnontrivial" />
