@@ -6,6 +6,4 @@ I'm a **software engineer** from the Eastern US. I worked on open source project
 - data visualization
 - systems engineering
 
-I'm an **autodidact** in the fields of programming, philosophy, and theology.
-
 <img src="https://github-readme-stats.vercel.app/api?username=nonnontrivial" />
