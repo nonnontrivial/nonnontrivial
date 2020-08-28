@@ -5,3 +5,9 @@ I'm a **software engineer** from the Eastern US. I worked on open source project
 - image processing
 - data visualization
 - systems engineering
+
+The **languages** I'm most familliar and fascinated with are:
+
+- TypeScript
+- Python
+- Go
