@@ -4,7 +4,7 @@ I'm a **software engineer** from the Eastern US. I worked on open source project
 
 - data visualization
 - image processing
-- systems engineering
+- systems programming
 
 The **languages** I'm most familliar and fascinated with are:
 
