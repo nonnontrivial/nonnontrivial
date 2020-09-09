@@ -10,4 +10,4 @@ The **languages** I'm most familliar and fascinated with are:
 
 - TypeScript
 - Python
-- Go
+- Rust
