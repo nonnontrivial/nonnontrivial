@@ -1,7 +1,1 @@
-I'm a **software engineer** from the Eastern US. I worked on open source projects in the Node and React ecosystems.
-
-The **languages** I'm most familliar and fascinated with are:
-
-- TypeScript
-- Go
-- Lua
+I'm a **dev** from the Eastern US. I work on (primarily the frontend of) [@pico-mes](https://github.com/pico-mes) to help midsize factories do more with their data.
