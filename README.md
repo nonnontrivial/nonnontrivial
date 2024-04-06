@@ -1,4 +1,4 @@
-Hi, i'm Kevin, digital plumber with ≈ 7 years of professional experience in web engineering with modern frontend frameworks like React with TypeScript, Kotlin on Android, and backend stacks using Python and Go in a containerized setting.
+Hi, i'm Kevin, digital plumber with ≈ 7 years using tools and languages like TypeScript, React for the web, Python, Kotlin on Android, and Podman on Linux in production
 
 ### i've worked on
 
