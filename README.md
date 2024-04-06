@@ -7,4 +7,5 @@ Hi, i'm Kevin, digital plumber with ≈ 7 years of professional experience in we
 ### i'm interested in
 
 - measuring the night sky
+- command line interfaces that are intuitive to use
 - trail running
