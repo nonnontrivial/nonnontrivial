@@ -4,7 +4,7 @@ React.js for the web, Kotlin for Android, and containerized Python and Go across
 
 ### i've worked on
 
-- sky brightness model/api server/queue producer for generating sky brightness predictions over discretized earth surface over time (python, h3, pytorch, docker)
+- sky brightness model/api server/queue producer for generating sky brightness predictions over discretized earth surface over time (python, h3, pytorch, docker, rabbitmq)
 - graph-based UI tools for manufacturing execution and conversation design (react, nodejs, typescript)
 
 
