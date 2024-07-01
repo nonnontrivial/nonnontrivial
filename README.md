@@ -10,6 +10,6 @@ React.js for the web, Kotlin for Android, and containerized Python and Go across
 
 ### i'm interested in
 
-- measuring & recording the night sky
+- measuring & recording night sky brightness
 - command line interfaces that are intuitive to use
 - trail running
