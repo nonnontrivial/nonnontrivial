@@ -12,4 +12,4 @@ React.js for the web, Kotlin for Android, and containerized Python and Go across
 
 - measuring & recording night sky brightness
 - command line interfaces that are intuitive to use
-- trail running
+- kettlebell
