@@ -8,7 +8,7 @@ React.js for the web, Kotlin for Android, and containerized Python and Go across
 
 - [sky brightness application](https://github.com/nonnontrivial/ctts) for generating sky brightness predictions over discretized earth surface over time (python, h3, pytorch, docker, rabbitmq, gRPC, postgres)
 - applications for enhancing situational awareness in a defense setting (kotlin, python, podman, XMPP, postgres)
-- frontends of digraph-based tools for manufacturing execution and conversation design (react, nodejs, typescript)
+- frontends of digraph-based tools for manufacturing execution and conversation design (react, redux, typescript)
 
 
 ### i'm interested in
