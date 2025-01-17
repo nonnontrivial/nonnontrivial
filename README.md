@@ -1,6 +1,6 @@
 Hi, i'm Kevin, digital plumber with ≈ 7 years of professional experience in software.
 
-Containerized Python, Bash, React.js for the web, and Kotlin for Android across protocols like HTTP, MQTT, and gRPC, all in small-ish teams with care towards how it winds up in front of users, whether at the edge, on a tactical network, or as part of SaaS.
+Containerized Python, scripting with Lua and Bash, React.js for the web, and Kotlin for Android across protocols like HTTP, MQTT, and gRPC, all in small-ish teams with care towards how it winds up in front of users, whether at the edge, on a tactical network, or as part of SaaS.
 
 > I studied art in school but pivoted to computer science after realizing that audio engineering was an optimization problem.
 
