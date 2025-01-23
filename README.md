@@ -14,5 +14,5 @@ Containerized Python, scripting with Lua and Bash, React.js for the web, and Kot
 ### i'm interested in
 
 - measuring night sky brightness
-- learning the math that i didn't in school
+- vim golf
 - kettlebell
