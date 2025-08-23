@@ -7,7 +7,7 @@ Containerized Python, scripting with Lua and Bash, React.js for the web, and Kot
 ### i've worked on
 
 - [sky brightness application](https://github.com/nonnontrivial/ctts) to infer sky brightness at H3 cells using a custom model (python, h3, pytorch, docker, rabbitmq)
-- tools to enhance situational awareness for defense (kotlin, python, podman, XMPP, postgres)
+- distributed systems in a defense context (python, podman, TAK, XMPP, postgres, kotlin, android)
 - frontends of digraph-based tools for manufacturing execution and conversation design (react, redux, typescript, gRPC)
 
 
