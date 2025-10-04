@@ -6,13 +6,12 @@ Containerized Python, scripting with Lua and Bash, React.js for the web, and Kot
 
 ### i've worked on
 
+- edge AI in a defense context (python, podman, TAK, XMPP, postgres, kotlin, android)
 - [sky brightness application](https://github.com/nonnontrivial/ctts) to infer sky brightness at H3 cells using a custom model (python, h3, pytorch, docker, rabbitmq)
-- distributed systems in a defense context (python, podman, TAK, XMPP, postgres, kotlin, android)
 - frontends of digraph-based tools for manufacturing execution and conversation design (react, redux, typescript, gRPC)
 
 
 ### i'm interested in
 
-- measuring night sky brightness
+- continuous improvement of development workflows
 - vim golf
-- kettlebell
