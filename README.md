@@ -6,7 +6,7 @@ Containerized Python, scripting with Lua and Bash, React.js for the web, and Kot
 
 ### i've worked on
 
-- edge AI in a defense context (python, podman, TAK, XMPP, postgres, kotlin, android)
+- edge AI in a defense context (python, behavior trees, llama index, podman, TAK, XMPP, postgres, kotlin, android)
 - [sky brightness application](https://github.com/nonnontrivial/ctts) to infer sky brightness at H3 cells using a custom model (python, h3, pytorch, docker, rabbitmq)
 - frontends of digraph-based tools for manufacturing execution and conversation design (react, redux, typescript, gRPC)
 
