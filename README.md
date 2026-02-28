@@ -13,5 +13,4 @@ Containerized Python, scripting with Lua and Bash, React.js for the web, and Kot
 
 ### i'm interested in
 
-- continuous improvement of development workflows
 - vim golf
